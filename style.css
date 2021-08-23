@@ -266,7 +266,7 @@ margin-left: 1rem;
     font-size: 3vh;
     margin-left: 1rem;
 }
-@media screen and (max-width:653px){
+@media screen and (max-width:700px){
     .header{
         background: url(800413.jpg)no-repeat;
         background-size: 100vw;
