@@ -266,204 +266,179 @@ margin-left: 1rem;
     font-size: 3vh;
     margin-left: 1rem;
 }
-@media screen and (max-width:700px){
-    .header{
+@media screen and (max-width:550px) {
+    .header {
         background: url(800413.jpg)no-repeat;
         background-size: 100vw;
-
     }
-    .top10{
+    .top10 {
         border-radius: none;
         float: none;
-        display: inline;
+        display: grid;
         justify-content: center;
         margin-left: 1.8rem;
         font-size: 1.4rem;
         background-color: none;
     }
-    .contactus{
-        margin-top: 2.5rem;
-        display: inline;
-        margin-top: 30rem;
-    }
-    .aboutus{
-        margin-left: 1rem;
-        margin-top: 2rem;
+    .contactus {
         display: inline-block;
-        
+        margin-top: 40rem;
     }
-    .introduction{
+    .aboutus {
+        margin-left: 7rem;
+        margin-top: -1rem;
+        display: inline-block;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        size: 5spx;
+    }
+    .introduction {
         font-size: 2rem;
         color: rgb(255, 255, 255);
         margin-left: 3.5rem;
-        margin-top: -90rem;
+        margin-top: -110rem;
         margin-right: 3rem;
-        
     }
-    .cars{
+    .cars {
         margin-top: -25rem;
-        
-        
     }
-    .first{
+    .first {
         margin-left: 2.1rem;
         width: 80vw;
     }
-    .first-car{
+    .first-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .first-car-info{
+    .first-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .second{
+    .second {
         margin-top: 25rem;
         margin-left: 1.9rem;
         width: 80vw;
-        
     }
-    .second-car{
+    .second-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .second-car-info{
+    .second-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .third{
+    .third {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .third-car{
+    .third-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .third-car-info{
+    .third-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .fourth{
+    .fourth {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .fourth-car{
+    .fourth-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .fourth-car-info{
+    .fourth-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .fifth{
+    .fifth {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .fifth-car{
+    .fifth-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .fifth-car-info{
+    .fifth-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .sixth{
+    .sixth {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .sixth-car{
+    .sixth-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .sixth-car-info{
+    .sixth-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .seventh{
+    .seventh {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .seventh-car{
+    .seventh-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .seventh-car-info{
+    .seventh-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .eight{
+    .eight {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .eight-car{
+    .eight-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .eight-car-info{
+    .eight-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .ninth{
+    .ninth {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .ninth-car{
+    .ninth-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .ninth-car-info{
+    .ninth-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-    .tenth{
+    .tenth {
         margin-top: 25rem;
         margin-left: 2.1rem;
         width: 80vw;
-
     }
-    .tenth-car{
+    .tenth-car {
         display: inline-block;
         margin-left: 2rem;
     }
-    .tenth-car-info{
+    .tenth-car-info {
         display: inline-block;
         margin-left: 1rem;
         margin-right: 1rem;
-
     }
-
 }
-
-
