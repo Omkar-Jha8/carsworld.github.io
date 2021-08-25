@@ -442,3 +442,184 @@ margin-left: 1rem;
         margin-right: 1rem;
     }
 }
+@media screen and (max-width:500px) {
+    .header {
+        background: url(800413.jpg)no-repeat;
+        width: fit-content;
+        background-size: 100vw;
+    }
+    .top10 {
+        border-radius: none;
+        float: none;
+        display: grid;
+        justify-content: center;
+        margin-left: 1.8rem;
+        font-size: 1.4rem;
+        background-color: none;
+    }
+    .contactus {
+        display: inline-block;
+        margin-top: 30rem;
+    }
+    .aboutus {
+        margin-left: 1rem;
+        margin-top: 3rem;
+        display: inline-block;
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+        size: 5px;
+    }
+    .introduction {
+        font-size: 2rem;
+        color: rgb(255, 255, 255);
+        margin-left: 3.5rem;
+        margin-top: -100rem;
+        margin-right: 3rem;
+    }
+    .cars {
+        margin-top: -25rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .first {
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .first-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .first-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .second {
+        margin-top: 25rem;
+        margin-left: 1.9rem;
+        width: 80vw;
+    }
+    .second-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .second-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .third {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .third-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .third-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .fourth {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .fourth-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .fourth-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .fifth {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .fifth-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .fifth-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .sixth {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .sixth-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .sixth-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .seventh {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .seventh-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .seventh-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .eight {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .eight-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .eight-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .ninth {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .ninth-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .ninth-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .tenth {
+        margin-top: 25rem;
+        margin-left: 2.1rem;
+        width: 80vw;
+    }
+    .tenth-car {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    .tenth-car-info {
+        display: inline-block;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
